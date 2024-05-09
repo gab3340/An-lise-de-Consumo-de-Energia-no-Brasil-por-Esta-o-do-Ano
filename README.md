@@ -1,7 +1,7 @@
 # An-lise-de-Consumo-de-Energia-no-Brasil-por-Esta-o-do-Ano
 
-#Explicação: Minha ideia primeiro foi analisar o HTML da API como forma de base para meu projeto, essa ideia é possivel, 
-#porem, perde muito do desmepenho do programa, com possibilidade de erro. Então,
+#Explicação: Minha primeira ideia foi analisar o HTML da API como forma de base para meu projeto, essa ideia é possivel, 
+#porem, perde-se muito do desempenho do programa, com possibilidade de erro. Então,
 #por ter pouco tempo, utilizei uma base de dados da ONS para tentar simular e chegar
 #proximo do resultado da API. Com o passar do codigo, irei explicar passo a passo.
 
